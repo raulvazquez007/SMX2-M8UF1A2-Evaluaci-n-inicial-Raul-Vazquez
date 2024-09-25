@@ -13,7 +13,7 @@ Son conjunto de técnicas, aplicaciones y programas informáticos que se utiliza
 
 |**Aplicaciones**|**Visto**|
 |-----------------------|:----------------:|	
-|Google Docs |##### ![visto](https://github.com/raulvazquez007/SMX2-M8UF1A2-Evaluaci-n-inicial-Raul-Vazquez/blob/main/visto.png)|
+|Google Docs |![visto](https://github.com/raulvazquez007/SMX2-M8UF1A2-Evaluaci-n-inicial-Raul-Vazquez/blob/main/visto.png)|
 |Google Slides |![visto](https://github.com/raulvazquez007/SMX2-M8UF1A2-Evaluaci-n-inicial-Raul-Vazquez/blob/main/visto.png)|
 |Google Sheets |![visto](https://github.com/raulvazquez007/SMX2-M8UF1A2-Evaluaci-n-inicial-Raul-Vazquez/blob/main/visto.png)|
 |Google Calendar |![calendario](https://github.com/raulvazquez007/SMX2-M8UF1A2-Evaluaci-n-inicial-Raul-Vazquez/blob/main/calendario.png)|
