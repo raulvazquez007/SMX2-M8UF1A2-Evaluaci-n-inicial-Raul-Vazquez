@@ -17,6 +17,6 @@ Son conjunto de técnicas, aplicaciones y programas informáticos que se utiliza
 |Google Slides |![visto](https://github.com/raulvazquez007/SMX2-M8UF1A2-Evaluaci-n-inicial-Raul-Vazquez/blob/main/visto.png)|
 |Google Sheets |![visto](https://github.com/raulvazquez007/SMX2-M8UF1A2-Evaluaci-n-inicial-Raul-Vazquez/blob/main/visto.png)|
 |Google Calendar |![calendario](https://github.com/raulvazquez007/SMX2-M8UF1A2-Evaluaci-n-inicial-Raul-Vazquez/blob/main/calendario.png)|
-|Google Meet |hdhhhd |
+|Google Meet |![meet](https://github.com/raulvazquez007/SMX2-M8UF1A2-Evaluaci-n-inicial-Raul-Vazquez/blob/main/meet.avif)|
 |... |...|
 
