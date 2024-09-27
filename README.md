@@ -13,14 +13,16 @@ Son conjunto de técnicas, aplicaciones y programas informáticos que se utiliza
 
 |**Aplicaciones**|**Visto**|
 |-----------------------|:----------------:|	
-|Google Docs |![visto](https://github.com/raulvazquez007/SMX2-M8UF1A2-Evaluaci-n-inicial-Raul-Vazquez/blob/main/visto.png)|
-|Google Slides |![visto](https://github.com/raulvazquez007/SMX2-M8UF1A2-Evaluaci-n-inicial-Raul-Vazquez/blob/main/visto.png)|
-|Google Sheets |![visto](https://github.com/raulvazquez007/SMX2-M8UF1A2-Evaluaci-n-inicial-Raul-Vazquez/blob/main/visto.png)|
-|Google Calendar |![calendario](https://github.com/raulvazquez007/SMX2-M8UF1A2-Evaluaci-n-inicial-Raul-Vazquez/blob/main/calendario.png)|
-|Google Meet |![meet](https://github.com/raulvazquez007/SMX2-M8UF1A2-Evaluaci-n-inicial-Raul-Vazquez/blob/main/meet.avif)|
+|Google Docs |<img src="https://github.com/raulvazquez007/SMX2-M8UF1A2-Evaluaci-n-inicial-Raul-Vazquez/blob/main/visto.png" alt="Visto" width="39"/>|
+|Google Slides |<img src="https://github.com/raulvazquez007/SMX2-M8UF1A2-Evaluaci-n-inicial-Raul-Vazquez/blob/main/visto.png" alt="Visto" width="39"/>|
+|Google Sheets |<img src="https://github.com/raulvazquez007/SMX2-M8UF1A2-Evaluaci-n-inicial-Raul-Vazquez/blob/main/visto.png" alt="Visto" width="39"/>|
+|Google Calendar |<img src="https://github.com/raulvazquez007/SMX2-M8UF1A2-Evaluaci-n-inicial-Raul-Vazquez/blob/main/calendario.png" alt="calendario" width="39"/>|
+|Google Meet |<img src="https://github.com/raulvazquez007/SMX2-M8UF1A2-Evaluaci-n-inicial-Raul-Vazquez/blob/main/meet.avif" alt="meet" width="39"/>|
 |... |...|
 
 6.¿Qué es HTML ?
+Es el código que se utiliza para estructurar y desplegar una página web y sus contenidos.
+```
 <!DOCTYPE html>
 <HTML lang=''en''>
 <head>
@@ -33,9 +35,12 @@ Son conjunto de técnicas, aplicaciones y programas informáticos que se utiliza
 
 </body>
 </html>
-
+```
 7.¿Qué es CSS?
 CSS es uno de los lenguajes más importantes que se utilizan para ordenar las instrucciones referentes a la apariencia de un sitio y presentar los contenidos de una página de forma atractiva. 
 8.Flujo de trabajo (navegador, petición, servidor y respuesta):
-![flujo de trabajo](https://github.com/raulvazquez007/SMX2-M8UF1A2-Evaluaci-n-inicial-Raul-Vazquez/commit/6b9cb4e435bee0bcc9ce7c2feba90940d2e4345e)
+<div align="center">
+  <img src="https://github.com/raulvazquez007/SMX2-M8UF1A2-Evaluaci-n-inicial-Raul-Vazquez/blob/main/flujo%20de%20trabajo.png" alt="flujo de trabajo" width="499">
+</div>
+
 
