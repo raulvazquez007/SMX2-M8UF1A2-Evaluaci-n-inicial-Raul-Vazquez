@@ -20,3 +20,22 @@ Son conjunto de técnicas, aplicaciones y programas informáticos que se utiliza
 |Google Meet |![meet](https://github.com/raulvazquez007/SMX2-M8UF1A2-Evaluaci-n-inicial-Raul-Vazquez/blob/main/meet.avif)|
 |... |...|
 
+6.¿Qué es HTML ?
+<!DOCTYPE html>
+<HTML lang=''en''>
+<head>
+	<meta charset=''UTF-8''>
+	<meta http-equiv=''X-UA-Compatible'' content=''IE=edge''>
+	<meta name=''viewport'' content=''width=device-width, initial-scale=1.0''>
+	<title>Document</title>
+</head>
+<body>
+
+</body>
+</html>
+
+7.¿Qué es CSS?
+CSS es uno de los lenguajes más importantes que se utilizan para ordenar las instrucciones referentes a la apariencia de un sitio y presentar los contenidos de una página de forma atractiva. 
+8.Flujo de trabajo (navegador, petición, servidor y respuesta):
+![flujo de trabajo](https://github.com/raulvazquez007/SMX2-M8UF1A2-Evaluaci-n-inicial-Raul-Vazquez/commit/6b9cb4e435bee0bcc9ce7c2feba90940d2e4345e)
+
