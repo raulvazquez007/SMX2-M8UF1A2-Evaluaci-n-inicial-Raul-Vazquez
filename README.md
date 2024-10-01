@@ -38,6 +38,7 @@ Es el código que se utiliza para estructurar y desplegar una página web y sus 
 ```
 7.¿Qué es CSS?
 CSS es uno de los lenguajes más importantes que se utilizan para ordenar las instrucciones referentes a la apariencia de un sitio y presentar los contenidos de una página de forma atractiva. 
+
 8.Flujo de trabajo (navegador, petición, servidor y respuesta):
 <div align="center">
   <img src="https://github.com/raulvazquez007/SMX2-M8UF1A2-Evaluaci-n-inicial-Raul-Vazquez/blob/main/flujo%20de%20trabajo.png" alt="flujo de trabajo" width="499">
